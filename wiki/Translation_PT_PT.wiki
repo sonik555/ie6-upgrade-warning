@@ -1,4 +1,4 @@
-#summary The messages translated int Portuguese (Portugal)
+#summary The messages translated into Portuguese (Portugal)
 
 === Introduction ===
 
