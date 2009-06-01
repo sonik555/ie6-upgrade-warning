@@ -1,4 +1,4 @@
-#summary The messages translated into Spanish (Chile)
+#summary The messages translated into Turkish
 
 === Introduction ===
 
